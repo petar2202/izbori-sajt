@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "izbori-sajt-f4af8"
+  },
+  "targets": {
+    "izbori-sajt-f4af8": {
+      "hosting": {
+        "glavni": [
+          "izbori-sajt-3"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
